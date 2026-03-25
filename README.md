@@ -8,4 +8,4 @@ Visual Studio Code, Google Chrome, HTML/CSS/JS
 
 ## 🔗 Reference
 [Link](https://ojg1.github.io/SHSHackathon2026/)
-![Snippet](snippet.png)
+![Snippet](assets/images/snippet.png)
